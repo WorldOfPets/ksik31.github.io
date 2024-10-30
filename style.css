@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background: linear-gradient(90deg,#DF98FA 25%, #9055FF 100%,#DF98FA 25%);
+  }
+  
+.ot7{
+    border-style:solid;
+    border-color:#190C29;
+    border: 0px;
+    border-radius: 50px;
+    margin: 10px;
+  }
+  
+h1{
+font-family: 'Rampart One', cursive;
+word-wrap: break-word;
+color: #26192F;
+}
+
+h3{
+    padding: 15px;
+font-family: 'Patrick Hand', sans-serif;
+font-size: 1.5em;
+word-wrap: break-word;
+}
+
+
+
+
+
+
+  
